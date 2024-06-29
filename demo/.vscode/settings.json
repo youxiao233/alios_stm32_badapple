@@ -1,0 +1,21 @@
+{
+    "haasStudio.name": "test_demo",
+    "haasStudio.hardware.board": "haaseduk1",
+    "haasStudio.appType": "c",
+    "haasStudio.solutionName": "helloworld_demo",
+    // "haasStudio.projectDir": "c:\\Users\\shitou\\Desktop\\demo",
+    "haasStudio.projectDir": "C:\\work\\study\\da_san_xia\\stm32\\student_project\\demo",
+    "haasStudio.comPort": "COM39",
+    "haasStudio.hardware.baudrate": 1500000,
+    "C_Cpp.default.compilerPath": "C:\\tools\\sourse\\MinGW\\MinGW\\bin\\gcc.exe",
+    "files.associations": {
+        "led.h": "c",
+        "stdlib.h": "c",
+        "gpio.h": "c",
+        "hal_iomux_haas1000.h": "c",
+        "stdio.h": "c",
+        "crtdefs.h": "c",
+        "sh1106.h": "c",
+        "define.h": "c"
+    }
+}
